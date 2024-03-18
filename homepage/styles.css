@@ -1,0 +1,31 @@
+.container-fluid {
+    background-color: #87CEEB;
+}
+p {
+    text-indent: 30px;
+}
+h1 {
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Pacifico', cursive;
+}
+ul {
+    font-size: 30px;
+}
+iframe {
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+}
+.title {
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+body {
+    background-color: #F5F5F5;
+}
+img {
+    vertical-align: top;
+    margin-left: auto;
+    margin-right: auto;
+}
